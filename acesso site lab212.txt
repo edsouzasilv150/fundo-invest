@@ -1,0 +1,14 @@
+informações site lab212
+
+nome banco de dados:
+lab212
+user root
+
+
+acesso site WP:
+
+Titulo: fundo_investimento
+Nome usuário: lab212
+senha:@lab212
+e-mail:edsouzasilv@hotmail.com
+
